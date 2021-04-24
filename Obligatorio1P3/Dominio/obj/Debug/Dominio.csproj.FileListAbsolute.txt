@@ -1,7 +1,0 @@
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\bin\Debug\Dominio.exe.config
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\bin\Debug\Dominio.exe
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\bin\Debug\Dominio.pdb
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\obj\Debug\Dominio.exe
-C:\Users\vicen\Desktop\bClases ORT\Programacion 3\Obligatorio1\Obligatorio1P3\Dominio\obj\Debug\Dominio.pdb
